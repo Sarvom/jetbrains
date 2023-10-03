@@ -59,7 +59,7 @@ Below is an example of creating a custom `ftd.type` using jetbrains.
 \-- ftd.type jetbrains-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $jetbrains-assets.fonts.jetbrains
+font-family: $jetbrains-assets.fonts.Jetbrains
 
 \-- ftd.type jetbrains-size-12-mobile:
 size.px: 12
@@ -111,7 +111,7 @@ color: $inherited.colors.text-strong
 -- ftd.type jetbrains-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $jetbrains-assets.fonts.jetbrains
+font-family: $jetbrains-assets.fonts.Jetbrains
 
 
 -- ftd.type jetbrains-size-12-mobile:
